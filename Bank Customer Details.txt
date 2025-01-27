@@ -1,0 +1,51 @@
+                                                    ***************************   
+                                                        GOLDEN HORIZON BANK
+                                                    ***************************   
+                                                       Bank Customer Details
+                                                    ----------------------------                               
+
+Number_of_customers=4
+
+
+1. 
+A/C Number: 10001000002852
+Customer Name: Aditya
+Date of Birth: 18/11/2005
+Mobile Number: 4545408989
+Email: Aditya456@gmail.com
+Address: fgfh
+Safe Number: 8989
+Password: 12345678@123
+
+2. 
+A/C Number: 10001000003090
+Customer Name: Vinayak Gupta
+Date of Birth: 26/08/2007
+Mobile Number: 4545408989
+Email: vinayak@gmail.com
+Address: 56456
+Safe Number: 1234
+Password: Vinayak@8989
+Debit Card Number: 400000100003505
+
+3. 
+A/C Number: 10001000003410
+Customer Name: Tejas jadon
+Date of Birth: 13/11/2005
+Mobile Number: 1234567890
+Email: asdf@gmail.com
+Address: akskdkd
+Safe Number: 123456
+Password: Vinayak@8989
+Debit Card Number: 400000100003737
+
+
+4. 
+A/C Number: 10001000022217
+Customer Name: Aditya Gupta
+Date of Birth: 18/11/2005
+Mobile Number: 4545408989
+Email: Aditya@gmail.com
+Address: Agra
+Safe Number: 8989
+Password: Aditya@8989
